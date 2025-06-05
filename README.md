@@ -1,4 +1,4 @@
-# Wordle Solver Assistant
+# Wordle Solver
 
 A simple command-line assistant to help you solve Wordle puzzles more efficiently!  
 Automatically manages a 5-letter word list and guides you through the process of narrowing down possible solutions based on your guesses and feedback.
@@ -16,7 +16,7 @@ Automatically manages a 5-letter word list and guides you through the process of
 ## Usage
 
 ```sh
-python wordle_solver.py --begin
+python ws.py --begin
 ```
 
 ### Options
