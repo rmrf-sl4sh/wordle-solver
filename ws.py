@@ -10,9 +10,9 @@ HELP_TEXT = """
 Wordle Solver Assistant
 
 Usage:
-  python wordle_solver.py --begin              Run the assistant (downloads word list if needed)
-  python wordle_solver.py --update             Force-download the latest word list and exit
-  python wordle_solver.py --help | -h          Show this help message
+  python3 ws.py --begin              Run the assistant (downloads word list if needed)
+  python3 ws.py --update             Force-download the latest word list and exit
+  python3 ws.py --help | -h          Show this help message
 
 Options:
   --begin     Start the game
